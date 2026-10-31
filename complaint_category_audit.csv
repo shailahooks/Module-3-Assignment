@@ -1,0 +1,174 @@
+Problem (formerly Complaint Type),theme,count_unique_key
+Illegal Parking,Transportation/parking,573439
+Noise - Residential,Noise,462463
+HEAT/HOT WATER,Housing/buildings,311236
+Blocked Driveway,Transportation/parking,172405
+Noise - Street/Sidewalk,Noise,171301
+UNSANITARY CONDITION,Housing/buildings,108812
+Water System,Streets/infrastructure,75398
+Abandoned Vehicle,Transportation/parking,67174
+PLUMBING,Housing/buildings,64634
+Street Condition,Streets/infrastructure,63770
+Noise - Commercial,Noise,63760
+Dirty Condition,Sanitation/pests,59285
+PAINT/PLASTER,Housing/buildings,55829
+Noise,Noise,55161
+Traffic Signal Condition,Streets/infrastructure,44493
+Encampment,Other,43643
+Missed Collection,Sanitation/pests,42936
+Derelict Vehicles,Transportation/parking,42883
+Noise - Vehicle,Noise,42679
+DOOR/WINDOW,Housing/buildings,41339
+Illegal Dumping,Sanitation/pests,37900
+WATER LEAK,Housing/buildings,35099
+Rodent,Sanitation/pests,31258
+General Construction/Plumbing,Housing/buildings,30757
+GENERAL,Housing/buildings,30052
+Vendor Enforcement,Other,28936
+ELECTRIC,Housing/buildings,28551
+Street Light Condition,Streets/infrastructure,28037
+Drug Activity,Other,27950
+Homeless Person Assistance,Other,26851
+Sidewalk Condition,Streets/infrastructure,25219
+Sewer,Streets/infrastructure,24874
+FLOORING/STAIRS,Housing/buildings,24689
+Non-Emergency Police Matter,Other,24480
+Damaged Tree,Streets/infrastructure,24142
+APPLIANCE,Housing/buildings,20415
+Obstruction,Other,19093
+Elevator,Housing/buildings,18612
+Lead,Housing/buildings,18274
+Graffiti,Other,17614
+Consumer Complaint,Other,17133
+Maintenance or Facility,Other,17022
+Snow or Ice,Streets/infrastructure,16378
+Residential Disposal Complaint,Sanitation/pests,16257
+Overgrown Tree/Branches,Streets/infrastructure,12577
+Building/Use,Housing/buildings,12479
+SAFETY,Housing/buildings,11940
+Traffic,Transportation/parking,11496
+Illegal Fireworks,Noise,11080
+Food Establishment,Other,10867
+Animal-Abuse,Other,10386
+Dead Animal,Sanitation/pests,10238
+For Hire Vehicle Complaint,Transportation/parking,10114
+Air Quality,Other,9753
+Panhandling,Other,8968
+Noise - Park,Noise,8636
+Indoor Air Quality,Housing/buildings,8579
+Curb Condition,Streets/infrastructure,7803
+Dead/Dying Tree,Streets/infrastructure,7219
+Street Sweeping Complaint,Sanitation/pests,6824
+Real Time Enforcement,Other,5555
+Illegal Posting,Other,5269
+Smoking or Vaping,Other,5185
+Lost Property,Other,5183
+Drinking,Other,4844
+Street Sign - Damaged,Streets/infrastructure,4746
+Root/Sewer/Sidewalk Condition,Streets/infrastructure,4713
+Illegal Tree Damage,Streets/infrastructure,4493
+Mobile Food Vendor,Other,4388
+Animal in a Park,Other,4354
+Litter Basket Request,Sanitation/pests,3907
+Outdoor Dining,Other,3880
+Water Conservation,Streets/infrastructure,3868
+Street Sign - Dangling,Streets/infrastructure,3585
+Boilers,Housing/buildings,3308
+Violation of Park Rules,Other,3160
+Emergency Response Team (ERT),Other,3112
+Special Projects Inspection Team (SPIT),Other,3076
+Noise - House of Worship,Noise,3060
+Sanitation Worker or Vehicle Complaint,Sanitation/pests,2971
+Street Sign - Missing,Streets/infrastructure,2969
+Taxi Complaint,Transportation/parking,2900
+Unsanitary Animal Pvt Property,Sanitation/pests,2622
+Plumbing,Housing/buildings,2486
+Food Poisoning,Other,2267
+Hazardous Materials,Other,2246
+Construction Safety Enforcement,Housing/buildings,2111
+Abandoned Bike,Transportation/parking,2096
+Electrical,Housing/buildings,2014
+Noise - Helicopter,Noise,1924
+Dumpster Complaint,Sanitation/pests,1892
+Commercial Disposal Complaint,Sanitation/pests,1711
+Day Care,Other,1608
+Bike/Roller/Skate Chronic,Transportation/parking,1578
+ELEVATOR,Housing/buildings,1487
+Asbestos,Other,1481
+Unsanitary Pigeon Condition,Sanitation/pests,1431
+Urinating in Public,Sanitation/pests,1395
+Litter Basket Complaint,Sanitation/pests,1338
+Water Quality,Streets/infrastructure,1260
+Bus Stop Shelter Complaint,Transportation/parking,1165
+Standing Water,Sanitation/pests,1121
+Unleashed Dog,Other,1056
+School Maintenance,Other,858
+OUTSIDE BUILDING,Housing/buildings,826
+Industrial Waste,Sanitation/pests,819
+New Tree Request,Streets/infrastructure,771
+Non-Residential Heat,Housing/buildings,760
+Wood Pile Remaining,Streets/infrastructure,752
+Cannabis Retailer,Other,709
+Bike Rack,Transportation/parking,603
+Investigations and Discipline (IAD),Other,599
+E-Scooter,Transportation/parking,497
+BEST/Site Safety,Other,474
+Lot Condition,Streets/infrastructure,434
+Indoor Sewage,Housing/buildings,429
+Mold,Housing/buildings,393
+Illegal Animal Kept as Pet,Other,364
+Mosquitoes,Sanitation/pests,321
+Drinking Water,Other,312
+Bus Stop Shelter Placement,Transportation/parking,259
+Beach/Pool/Sauna Complaint,Other,210
+Disorderly Youth,Other,196
+LinkNYC,Other,195
+Tattooing,Other,177
+Plant,Other,170
+Green Taxi Complaint,Transportation/parking,154
+Scaffold Safety,Housing/buildings,143
+Posting Advertisement,Other,139
+Poison Ivy,Other,133
+Bike/Roller/Skate,Transportation/parking,130
+Special Operations,Other,125
+Recycling Basket Complaint,Sanitation/pests,118
+Bench,Other,116
+Uprooted Stump,Streets/infrastructure,115
+Broken Parking Meter,Transportation/parking,106
+Illegal Animal Sold,Other,97
+Pet Sale,Other,95
+Cranes and Derricks,Housing/buildings,75
+Animal Facility - No Permit,Other,73
+Sewer Maintenance,Streets/infrastructure,62
+Taxi Compliment,Other,58
+Pet Shop,Other,50
+Institution Disposal Complaint,Sanitation/pests,49
+Building Drinking Water Tank,Housing/buildings,48
+Harboring Bees/Wasps,Other,42
+Unspecified,Other,42
+Public Toilet,Other,37
+Unsanitary Animal Facility,Sanitation/pests,34
+Lifeguard,Other,33
+Special Natural Area District (SNAD),Other,33
+Cooling Tower,Other,29
+AHV Inspection Unit,Other,28
+Incorrect Data,Other,28
+Dept of Investigations,Other,22
+Window Guard,Housing/buildings,20
+Water Maintenance,Streets/infrastructure,20
+Radioactive Material,Other,18
+Borough Office,Other,18
+Wayfinding,Other,17
+DEP Street Condition,Streets/infrastructure,10
+Oil or Gas Spill,Other,8
+Transfer Station Complaint,Sanitation/pests,7
+Calorie Labeling,Other,5
+Building Condition,Housing/buildings,5
+Squeegee,Other,5
+Tanning,Other,4
+X-Ray Machine/Equipment,Other,4
+Leaning Bar,Other,3
+Taxi Licensee Complaint,Transportation/parking,2
+DEP Sidewalk Condition,Streets/infrastructure,1
+Found Property,Other,1
+ASBESTOS,Other,1
